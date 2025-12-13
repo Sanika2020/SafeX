@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+*.log
+myenv/
+EMAIL/
+SHOTS/
+.env
