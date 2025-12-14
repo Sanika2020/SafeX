@@ -5,3 +5,4 @@ myenv/
 EMAIL/
 SHOTS/
 .env
+Driver-distraction-detection/data/*.dat
